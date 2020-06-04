@@ -1,5 +1,5 @@
 # CS2210-Data-Structures-and-Algorithms
-This repository contains my course work for an elementary Data Structures and Algorithms course 
+This repository contains my course work for an elementary Data Structures and Algorithms course offered by the University of Western Ontario.
 
 All uploaded submissions are as is and not corrected if there are any problems. I have included grader feedback for each assignment.
 
